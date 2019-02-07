@@ -153,7 +153,7 @@ function parseMessage(message) {
  
         // appending the chat message to list
         appendChatMessage(li);
- 
+ //fff
         $('#input_message').val('');
  
     } else if (jObj.flag == 'exit') {
