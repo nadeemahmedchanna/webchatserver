@@ -23,6 +23,11 @@
                      <destFileName>webapp-runner.jar</destFileName>
                             </artifactItem>
                         </artifactItems>
+                      <archive>
+            <manifest>
+              <addClasspath>true</addClasspath>
+            </manifest>
+          </archive>
                     </configuration>
                 </execution>
             </executions>
