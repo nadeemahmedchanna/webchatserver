@@ -42,9 +42,4 @@
     <version>1.0-rc2</version>
 </dependency>
   </dependencies>
-   <activation>
-         <property>
-             <name>env.DYNO</name>
-                </property>
-            </activation>
 </project>
