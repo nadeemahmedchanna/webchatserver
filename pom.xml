@@ -4,7 +4,7 @@
   <artifactId>webchatserver</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
-    <sourceDirectory>src</sourceDirectory>
+    <sourceDirectory>WebContent</sourceDirectory>
     <plugins>
     <plugin>
             <groupId>org.apache.maven.plugins</groupId>
